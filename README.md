@@ -1,2 +1,2 @@
-# github_public_practice
-パブリック用
+# public_playground
+遊び場
