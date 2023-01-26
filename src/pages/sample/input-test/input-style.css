@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+.field{
+    margin-bottom: 1rem;
+}
+
+.field label+input{
+    display: block;
+}
+
+article{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
