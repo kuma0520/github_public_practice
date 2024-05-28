@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.btn{
+    background: #3976a8;
+    padding: 1rem 2rem;
+    color: aliceblue;
+    text-decoration: none;
+    border-radius: 1rem;
+}
+
+.l{
+    font-size: 32px;
+}
+.m{
+    font-size: 24px;
+}
+.s{
+    font-size: 16px;
+}

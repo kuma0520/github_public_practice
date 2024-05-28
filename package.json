@@ -1,0 +1,27 @@
+{
+  "name": "public_playground",
+  "version": "1.0.0",
+  "description": "遊び場",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kumability/public_playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kumability/public_playground/issues"
+  },
+  "homepage": "https://github.com/kumability/public_playground#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
+}
